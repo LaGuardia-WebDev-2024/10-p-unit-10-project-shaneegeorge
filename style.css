@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: lightblue;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -27,8 +27,8 @@ html{
 }
 
 .pic{
-  height: 600px;
-  width: 400px;
+  height: 700px;
+  width: 500px;
   object-fit: cover;
   border: 1px solid black;
 }
